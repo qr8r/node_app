@@ -1,1 +1,1 @@
-var myFavoriteColor = "#112C85";
+export default const myFavoriteColor = "#112C85";
